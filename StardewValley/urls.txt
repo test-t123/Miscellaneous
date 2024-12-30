@@ -1,0 +1,5 @@
+https://github.com/svbbs/sv_TiebaChineseRevision
+https://github.com/Esca-MMC/DestroyableBushes
+https://github.com/Pathoschild/SMAPI
+https://github.com/lisyce/StardewValleyMods
+https://github.com/khanshoaib3/stardew-access
