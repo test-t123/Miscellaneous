@@ -1,0 +1,5 @@
+https://github.com/hst12/Starfield-Tools---ContentCatalog.txt-fixer
+https://github.com/Perchik71/Creation-Kit-Platform-Extended
+https://github.com/wrye-bash/wrye-bash
+https://github.com/Starfield-Reverse-Engineering/CommonLibSF
+https://github.com/catch-group/catch-collection
