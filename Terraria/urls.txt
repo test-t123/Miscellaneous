@@ -1,5 +1,0 @@
-https://github.com/UnrealMultiple/TShockPlugin
-https://github.com/Creadores-Program/CreadorCraft-Arcade
-https://github.com/Caerus-Online/terraria-clicker-react
-https://github.com/hocha113/CalamityOverhaul
-https://github.com/Murat65536/Terraria
