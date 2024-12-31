@@ -1,0 +1,5 @@
+https://github.com/The-Terrafirma-Team/Terrafirma
+https://github.com/mkacct/maddie-qol
+https://github.com/SignatureBeef/Open-Terraria-API
+https://github.com/tModLoader/tModLoader
+https://github.com/Mirsario/TerrariaOverhaul
